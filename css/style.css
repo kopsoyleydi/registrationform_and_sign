@@ -1,0 +1,49 @@
+body{    
+    position: relative;
+background: #FFFFFF;
+border-radius: 50px;
+}
+
+.group-5{
+    position: absolute;
+width: 270px;
+height: 283px;
+left: -49px;
+top: 106px;
+}
+.addem {
+    position: absolute;
+width: 273px;
+height: 106px;
+left: 376px;
+top: 186px;
+
+font-family: 'Typold';
+font-style: normal;
+font-weight: 800;
+font-size: 50px;
+line-height: 173px;
+
+color: #1E1E1E;
+}
+a {
+    color: rgb(126, 198, 250);
+   position: relative; 
+   line-height: normal;
+   text-decoration: none;
+   width: 273px;
+height: 106px;
+left: 396px;
+top: 400px;
+font-size: 28px;
+outline: #1E1E1E;
+justify-self: unset;
+cursor: alias;
+}
+.group-2{
+    position: absolute;
+width: 450px;
+height: 410px;
+left: 985px;
+top: 275.82px;
+}
